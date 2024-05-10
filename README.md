@@ -17,7 +17,7 @@ $  apt install python
 
 $  apt install git
 
-$  git clone https://github.com/IlayTamvan/Report
+$  git clone https://github.com/naasir/Report
 
 $  cd Report
 
